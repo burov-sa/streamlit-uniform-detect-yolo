@@ -1,3 +1,5 @@
+**English** | [Русский](README.ru.md)
+
 # Uniform Appearance Assessment Service
 
 Streamlit application for automatic assessment of employee uniform compliance using YOLOv8 object detection. Detects uniform items and violations from images, video files, or a live camera feed, and produces a detailed compliance report.
